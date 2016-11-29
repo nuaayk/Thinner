@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thinner", "Thinner.vcxproj", "{C3B33FC4-BAE1-4F6A-B84F-BDB701DB37AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B33FC4-BAE1-4F6A-B84F-BDB701DB37AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C3B33FC4-BAE1-4F6A-B84F-BDB701DB37AF}.Debug|Win32.Build.0 = Debug|Win32
+		{C3B33FC4-BAE1-4F6A-B84F-BDB701DB37AF}.Release|Win32.ActiveCfg = Release|Win32
+		{C3B33FC4-BAE1-4F6A-B84F-BDB701DB37AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
